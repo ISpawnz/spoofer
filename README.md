@@ -1,4 +1,4 @@
-# Spoofer de Serial de Disco — Estudo sobre HWID e o FiveM
+# Spoofer de Serial de Disco — Estudo sobre HWID
 
 > Estudo pessoal sobre como mecanismos de HWID (Hardware ID) identificam um PC e como um
 > driver de kernel do Windows pode falsificar o serial dos discos para burlar essa identificação.
